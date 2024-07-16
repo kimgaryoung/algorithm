@@ -4,9 +4,7 @@ using namespace std;
 
 int main() {
     int a, r, n;
-    cin >> a;
-    cin >> r;
-    cin >> n;
+    cin >> a >> r >> n;
 
     vector<unsigned int> mm = { 0 };
     mm.push_back(a);
