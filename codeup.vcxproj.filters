@@ -15,13 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="codeup.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="1096.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="1097.cpp">
+    <ClCompile Include="1098.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
